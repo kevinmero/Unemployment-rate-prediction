@@ -16,7 +16,7 @@ Python notebooks for unemployment prediction. Ecuador case study.
 * Pandas(versión 1.3.5)
 * Matplotlib(versión 3.2.2)
 * Deap (versión 1.3.3)
-* Bitstring (versión 3.1.9) 
+* Bitstring (versión 4.0.1) 
 
 Google Colab development environment
 
