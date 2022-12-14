@@ -10,8 +10,8 @@ Python notebooks for unemployment prediction. Ecuador case study.
 
 <p>Python 3.7.13 is used during development and following libraries are required to run the code provided in the notebook:</p>
 
-* Keras (versión 2.8.0) 
-* TensorFlow (versión 2.8.2)
+* Keras (versión 2.9.0) 
+* TensorFlow (versión 2.9.2)
 * NumPy (versión 1.21.6)
 * Pandas (versión 1.3.5)
 * Matplotlib (versión 3.2.2)
