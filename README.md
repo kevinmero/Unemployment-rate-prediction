@@ -8,7 +8,7 @@ Python notebooks for unemployment prediction. Ecuador case study.
 
 **GA-LSTM**
 
-<p>Python 3.7.13 is used during development and following libraries are required to run the code provided in the notebook:</p>
+<p>Google Colab development environment. Python 3.7.13 is used during development and following libraries are required to run the code provided in the notebook:</p>
 
 * Keras (versión 2.9.0) 
 * TensorFlow (versión 2.9.2)
@@ -17,8 +17,6 @@ Python notebooks for unemployment prediction. Ecuador case study.
 * Matplotlib (versión 3.2.2)
 * Deap (versión 1.3.3)
 * Bitstring (versión 4.0.1) 
-
-Google Colab development environment
 
 ### Dataset
 
